@@ -6,7 +6,8 @@ Submitted by: **Oanh Le**
 
 Time spent: **8** hours spent in total
 
-Link to project: [Glitch](https://ls-memory-game.glitch.me/)
+Link to project: 
+[Glitch](https://glitch.com/edit/#!/ls-memory-game) ☁️ [Demo](https://ls-memory-game.glitch.me/)
 
 ## Required Functionality
 
