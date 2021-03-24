@@ -70,7 +70,7 @@ My solution was to add the `Location.reload()` method that provides means to rel
    as well as the color palette and images customization options so that users can choose the theme of the game by their own. In addition, if I have more time to do (about 2 months), I’d try to make the app become a dynamic website where scores can be saved, and users can sign up and log in to their account.
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Oanh Le]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
